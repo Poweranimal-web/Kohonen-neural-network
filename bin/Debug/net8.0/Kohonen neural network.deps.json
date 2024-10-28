@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kohonen neural network/1.0.0": {
+        "runtime": {
+          "Kohonen neural network.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kohonen neural network/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

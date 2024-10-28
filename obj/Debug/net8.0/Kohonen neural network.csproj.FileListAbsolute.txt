@@ -1,0 +1,14 @@
+D:\Учебники\НМ\Kohonen neural network\bin\Debug\net8.0\Kohonen neural network.exe
+D:\Учебники\НМ\Kohonen neural network\bin\Debug\net8.0\Kohonen neural network.deps.json
+D:\Учебники\НМ\Kohonen neural network\bin\Debug\net8.0\Kohonen neural network.runtimeconfig.json
+D:\Учебники\НМ\Kohonen neural network\bin\Debug\net8.0\Kohonen neural network.dll
+D:\Учебники\НМ\Kohonen neural network\bin\Debug\net8.0\Kohonen neural network.pdb
+D:\Учебники\НМ\Kohonen neural network\obj\Debug\net8.0\Kohonen neural network.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учебники\НМ\Kohonen neural network\obj\Debug\net8.0\Kohonen neural network.AssemblyInfoInputs.cache
+D:\Учебники\НМ\Kohonen neural network\obj\Debug\net8.0\Kohonen neural network.AssemblyInfo.cs
+D:\Учебники\НМ\Kohonen neural network\obj\Debug\net8.0\Kohonen neural network.csproj.CoreCompileInputs.cache
+D:\Учебники\НМ\Kohonen neural network\obj\Debug\net8.0\Kohonen neural network.dll
+D:\Учебники\НМ\Kohonen neural network\obj\Debug\net8.0\refint\Kohonen neural network.dll
+D:\Учебники\НМ\Kohonen neural network\obj\Debug\net8.0\Kohonen neural network.pdb
+D:\Учебники\НМ\Kohonen neural network\obj\Debug\net8.0\Kohonen neural network.genruntimeconfig.cache
+D:\Учебники\НМ\Kohonen neural network\obj\Debug\net8.0\ref\Kohonen neural network.dll
